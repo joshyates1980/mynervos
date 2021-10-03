@@ -1,0 +1,13 @@
+{
+    "name": "The Royal Road by George Fatham",
+    "short_name": "The Royal Road",
+    "description": "A Study in the Egyptian Tarot, Key to Sacred Numbers and Symbols",
+    "start_url": "/?homescreen=1",
+    "background_color": "#d5d5d5",
+    "theme_color": "#ff9638",
+    "icons": [{
+      "src": "icon-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }]
+  }
