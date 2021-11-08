@@ -4,18 +4,19 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-
 <url>
-  <loc>http://www.mynervos.org/</loc>
-  <lastmod>2021-10-03T20:12:20+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://www.mynervos.org/</loc>
+<lastmod>2021-11-08T11:45:02+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.mynervos.org/u/joshyates1980/index.html</loc>
-  <lastmod>2021-10-03T20:13:56+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.mynervos.org/u/astrology/404.html</loc>
+<lastmod>2021-11-08T11:41:31+00:00</lastmod>
+<priority>0.80</priority>
 </url>
-
-
+<url>
+<loc>https://www.mynervos.org/u/joshyates1980/index.html</loc>
+<lastmod>2021-10-10T17:34:32+00:00</lastmod>
+<priority>0.80</priority>
+</url>
 </urlset>
