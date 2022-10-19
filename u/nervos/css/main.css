@@ -5040,6 +5040,7 @@ a.post-thumbnail:hover {
 
 .footer-copyrights p {
   color: #ddd;
+  text-decoration: none;
   line-height: 21px;
   font-size: 13px;
   margin: 0;
